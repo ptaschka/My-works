@@ -1,6 +1,5 @@
 # My-works
 Here are my works:
-mind map;
 checklists;
 test cases;
 bug reports;
