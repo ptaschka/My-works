@@ -1,3 +1,7 @@
 # My-works
-Here are my works
-Mind map, checklists, test cases, bug reports, brief test plans.
+Here are my works:
+mind map;
+checklists;
+test cases;
+bug reports;
+brief test plans.
